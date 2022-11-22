@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jonathanwrees1.github.io/react-clock/static/css/main.cfa2cdf2.css",
+    "main.js": "/jonathanwrees1.github.io/react-clock/static/js/main.0fd86cb1.js",
+    "index.html": "/jonathanwrees1.github.io/react-clock/index.html",
+    "main.cfa2cdf2.css.map": "/jonathanwrees1.github.io/react-clock/static/css/main.cfa2cdf2.css.map",
+    "main.0fd86cb1.js.map": "/jonathanwrees1.github.io/react-clock/static/js/main.0fd86cb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa2cdf2.css",
+    "static/js/main.0fd86cb1.js"
+  ]
+}
